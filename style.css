@@ -1,0 +1,22 @@
+/**
+ * Folha de estilos do aplicativo.
+ * Depende de "Normalize.css".
+ *
+ * OBS: Essas são as folhas de estilo (CSS) do tema (template) do aplicativo. 
+ * Posteriormente, cada página (conteúdo) terá sua própria folha de estilos,
+ * assim, somente as folhas de estilos necessárias serão carregadas.
+ *
+ * Para saber mais:
+ *  • https://www.w3schools.com/css/
+ *  • https://www.w3schools.com/cssref/css_selectors.asp
+ *  • https://www.w3schools.com/cssref/
+ */
+
+/* Reset de todos os elementos */
+* {
+  /* Tamanho do elemento é definido pelas bordas */
+  box-sizing: border-box;
+
+  /* Remove serrilhado ao redor de imagens e links selecionados */
+  outline: none;
+}
